@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synthia-attah
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I have expertise in Python, SQL, Power BI, Tableau
 
 
 <!---
