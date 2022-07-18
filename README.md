@@ -2,6 +2,11 @@
 - 👀 I’m interested in Data Analystics
 - 🌱 I have expertise in Python, SQL, Power BI, Tableau
 
+
+![image](https://user-images.githubusercontent.com/104759495/179561149-77c42a34-d5db-40e5-aa20-29828d4487c4.png)
+
+
+
 𝐋𝐚 𝐜𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐞́ 𝐚𝐮𝐭𝐨𝐮𝐫 𝐝𝐞𝐬 𝐝𝐨𝐧𝐧𝐞́𝐞𝐬 𝐬'𝐞𝐬𝐭 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲́𝗲 𝐞𝐧 𝐩𝐚𝐬𝐬𝐢𝐨𝐧, 𝐦𝐨𝐧 𝐩𝐚𝐫𝐜𝐨𝐮𝐫𝐬 𝐃𝐚𝐭𝐚 :
 
 Ayant depuis longtemps une forte appétence pour les données en général, j’ai mis à profit mon temps pendant la pandémie du Covid 19 pour me former dans le domaine de la data science:
